@@ -1,0 +1,2 @@
+moneyEarned,moneySpent,overDraft
+9000,8000,500000
