@@ -16,7 +16,7 @@ School managment system include inheritance hadle excptions, manage teacher and 
 - update the school money earn and record the infromation
 
 #School
-- Hadling the payemnt to teacher
+- Handle the payemnt to teacher
 - Add new students and teachers
 - Check if student pay all tuition fees
 - Add the transition logs and print them
