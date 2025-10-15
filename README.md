@@ -1,6 +1,6 @@
 # School-management-system
 
-School managment system include inheritance hadle excptions, manage teacher and student and record the financial stament, transition history
+School managment system include inheritance hadle excptions, manage teacher and student and record the financial statment, transition history
 
 #Peroson
 - A class can be inherited by teacher and student
@@ -24,5 +24,5 @@ School managment system include inheritance hadle excptions, manage teacher and 
 - Sotre and load the teacher, student, transition, financial information from the txt file.
 
 #payMentException
-- hadling the invalid payment and throw exception
+- Handle the invalid payment and throw exception
 
